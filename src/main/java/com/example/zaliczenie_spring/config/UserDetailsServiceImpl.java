@@ -1,5 +1,7 @@
-package com.example.zaliczenie_spring;
+package com.example.zaliczenie_spring.config;
 
+import com.example.zaliczenie_spring.model.Users;
+import com.example.zaliczenie_spring.repo.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;

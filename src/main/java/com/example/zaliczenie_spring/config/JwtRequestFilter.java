@@ -1,5 +1,7 @@
-package com.example.zaliczenie_spring;
+package com.example.zaliczenie_spring.config;
 
+import com.example.zaliczenie_spring.model.Users;
+import com.example.zaliczenie_spring.repo.UserRepository;
 import io.jsonwebtoken.ExpiredJwtException;
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;

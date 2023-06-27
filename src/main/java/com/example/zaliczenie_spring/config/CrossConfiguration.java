@@ -1,4 +1,4 @@
-package com.example.zaliczenie_spring;
+package com.example.zaliczenie_spring.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

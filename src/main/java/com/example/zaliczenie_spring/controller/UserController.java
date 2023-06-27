@@ -1,5 +1,8 @@
-package com.example.zaliczenie_spring;
+package com.example.zaliczenie_spring.controller;
 
+import com.example.zaliczenie_spring.model.Authority;
+import com.example.zaliczenie_spring.repo.UserRepository;
+import com.example.zaliczenie_spring.model.Users;
 import io.jsonwebtoken.Jwts;
 import io.jsonwebtoken.SignatureAlgorithm;
 import io.jsonwebtoken.security.Keys;

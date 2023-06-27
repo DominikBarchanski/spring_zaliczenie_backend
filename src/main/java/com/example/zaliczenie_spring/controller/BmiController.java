@@ -1,5 +1,9 @@
-package com.example.zaliczenie_spring;
+package com.example.zaliczenie_spring.controller;
 
+import com.example.zaliczenie_spring.model.Bmi;
+import com.example.zaliczenie_spring.repo.BmiRepository;
+import com.example.zaliczenie_spring.repo.UserRepository;
+import com.example.zaliczenie_spring.model.Users;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.annotation.AuthenticationPrincipal;
 import org.springframework.web.bind.annotation.GetMapping;

@@ -1,4 +1,4 @@
-package com.example.zaliczenie_spring;
+package com.example.zaliczenie_spring.config;
 
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;

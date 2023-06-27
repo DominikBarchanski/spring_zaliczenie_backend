@@ -1,5 +1,7 @@
-package com.example.zaliczenie_spring;
+package com.example.zaliczenie_spring.repo;
 
+import com.example.zaliczenie_spring.model.Bmi;
+import com.example.zaliczenie_spring.model.Users;
 import org.springframework.data.repository.CrudRepository;
 
 import java.util.List;

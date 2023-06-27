@@ -1,4 +1,4 @@
-package com.example.zaliczenie_spring;
+package com.example.zaliczenie_spring.model;
 
 import jakarta.persistence.*;
 import java.util.List;
